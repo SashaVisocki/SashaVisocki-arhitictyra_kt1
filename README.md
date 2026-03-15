@@ -1,2 +1,2 @@
-# SashaVisocki-arhitictyra_kt1
+*** ИЗМЕНЕННАЯ ПЕРВАЯ СТРОКА MAIN ***
 Это вторая строка в README
