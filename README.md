@@ -1,2 +1,3 @@
-*** ИЗМЕНЕННАЯ ПЕРВАЯ СТРОКА MAIN ***
-Это вторая строка в README
+SashaVisocki-architcryra_kt1
+*** ИЗМЕНЕНО В MAIN ***
+Строка, добавленная из ветки feature-1
