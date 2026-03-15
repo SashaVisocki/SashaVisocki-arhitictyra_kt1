@@ -1,3 +1,2 @@
-# SashaVisocki-arhitictyra_kt1
-Это вторая строка в README
+*** ИЗМЕНЕНО В MAIN ***
 Строка, добавленная из ветки feature-1
